@@ -1,7 +1,6 @@
 # Kofix
 
-![alt text](Readme_images/kofix.png)
-
+<img src="Readme_images/kofix.png" width="500" height="300" />
 
 Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
@@ -104,7 +103,11 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 ![alt text](Readme_images/image3.png)
 ![alt text](Readme_images/image4.png)
 
+<br>
+
+
+<br>
+
 ## 4. 라이센스
 
 [MIT License](LICENSE)
-```
