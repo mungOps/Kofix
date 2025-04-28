@@ -1,0 +1,3 @@
+rumps
+watchdog
+PyQt5
