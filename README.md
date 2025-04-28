@@ -1,12 +1,22 @@
 # Kofix
+
+![alt text](Readme_images/kofix.png)
+
+
 Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
 
 - 윈도우 간 작업 및 품의서를 작성할 때, 타 인터페이스에서 한글이 깨지는 것이 매우 귀찮아 작성하게 되었습니다.
 - 외부 스토리지 등 마운트 된 경로에도 사용가능합니다.
+- 파일 이동(상태변경)시에만 동작합니다.
 
 - pyqt5를 사용하여 생각보다 용량이 큽니다... 차후 바꾸어 두겠습니다.
 
+<br>
+
+<br>
+
+<br>
 
 # Kofix macOS 메뉴바 앱
 
@@ -20,7 +30,11 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 - 사용자에게 실시간으로 파일 변경 사항을 모니터링할 수 있는 기능을 제공합니다.
 
 
----
+<br>
+
+<br>
+
+<br>
 
 
 
@@ -69,13 +83,23 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
    빌드가 완료되면 `dist` 폴더에 `Kofix.app`이 생성됩니다.
 
+
+<br>
+
+<br>
+
+<br>
+
 ## 3. 사용법
 
 ### 3.1. 메뉴바 아이콘 클릭
 
 - Kofix 앱은 메뉴바에서 실행됩니다. 앱 아이콘을 클릭하면 설정 메뉴 및 파일 감시 기능을 사용할 수 있습니다.
-![alt text](Readme_images/image0.png)
 ![alt text](Readme_images/image1.png)
+
+<br>
+
+- 경로관리에서 경로를 추가 가능합니다.
 ![alt text](Readme_images/image2.png)
 ![alt text](Readme_images/image3.png)
 ![alt text](Readme_images/image4.png)
