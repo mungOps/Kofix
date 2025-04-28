@@ -1,7 +1,7 @@
 # Kofix
 
 <div style="text-align: center; padding: 20px;">
-  <img src="Readme_images/kofix.png" width="350" />
+  <img src="resources/kofix.png" width="350" />
 </div>
 
 
@@ -107,13 +107,13 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
 - 경로관리에서 경로를 추가 가능합니다.
 <div style="text-align: center; padding: 20px;">
-  <img src="Readme_images/image2.png" width="350" />
+  <img src="Readme_images/image2.png" width="450" />
 </div>
 <div style="text-align: center; padding: 20px;">
-  <img src="Readme_images/image3.png" width="350" />
+  <img src="Readme_images/image3.png" width="450" />
 </div>
 <div style="text-align: center; padding: 20px;">
-  <img src="Readme_images/image4.png" width="350" />
+  <img src="Readme_images/image4.png" width="450" />
 </div>
 
 <br>
