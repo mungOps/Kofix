@@ -1,6 +1,10 @@
 # Kofix
 
-<img src="Readme_images/kofix.png" width="500" height="300" />
+<div style="text-align: center; padding: 20px;">
+  <img src="Readme_images/kofix.png" width="350" />
+</div>
+
+
 
 Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
@@ -94,14 +98,23 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 ### 3.1. 메뉴바 아이콘 클릭
 
 - Kofix 앱은 메뉴바에서 실행됩니다. 앱 아이콘을 클릭하면 설정 메뉴 및 파일 감시 기능을 사용할 수 있습니다.
-![alt text](Readme_images/image1.png)
+<div style="text-align: center; padding: 20px;">
+  <img src="Readme_images/image1.png" width="350" />
+</div>
+
 
 <br>
 
 - 경로관리에서 경로를 추가 가능합니다.
-![alt text](Readme_images/image2.png)
-![alt text](Readme_images/image3.png)
-![alt text](Readme_images/image4.png)
+<div style="text-align: center; padding: 20px;">
+  <img src="Readme_images/image2.png" width="350" />
+</div>
+<div style="text-align: center; padding: 20px;">
+  <img src="Readme_images/image3.png" width="350" />
+</div>
+<div style="text-align: center; padding: 20px;">
+  <img src="Readme_images/image4.png" width="350" />
+</div>
 
 <br>
 
