@@ -1,7 +1,7 @@
 # Kofix
 
 <div style="text-align: center; padding: 20px;">
-  <img src="resources/kofix.png" width="350" />
+  <img src="Readme_images/kofix.png" width="350" />
 </div>
 
 
