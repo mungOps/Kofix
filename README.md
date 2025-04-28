@@ -47,7 +47,7 @@ Mac OS 한국어 자소분리를 해결하기 Kofix App 입니다.
 
 1. **다운로드**: 아래 링크에서 **Kofix** 앱을 다운로드할 수 있습니다.
    
-   - [Kofix macOS 앱 다운로드 링크](https://github.com/mungOps/Kofix/releases/download/untagged-f131434d1bbf9f1b7645/Kofix.zip)
+   - [Kofix macOS 앱 다운로드 링크](https://github.com/mungOps/Kofix/releases/download/v0.1/Kofix.zip)
 
 2. **앱 실행**:
    - 다운로드한 `.app` 파일을 더블 클릭하여 실행합니다.
